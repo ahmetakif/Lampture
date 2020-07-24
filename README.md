@@ -11,8 +11,11 @@ Parts needed for Lampture Project:
 6- A mobile device (Such as a tablet or smartphone)
 
 YouTube Video: https://youtu.be/A6nxaNzWKI4
+
 My YouTube Channel: https://youtube.com/c/AhmetAkifKaya
+
 My Website: http://ahmetakifkaya.com/
+
 My Instagram Page: https://www.instagram.com/ahmetakifkaya
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -28,8 +31,11 @@ Lampture Projesi için gerekli malzemeler:
 6- Bir mobil cihaz (Tablet veya akıllı telefon)
 
 YouTube Videosu: https://youtu.be/A6nxaNzWKI4
+
 YouTube Kanalım: https://youtube.com/c/AhmetAkifKaya
+
 Kişisel İnternet Sayfam: http://ahmetakifkaya.com/
+
 Instagram Sayfam: https://www.instagram.com/ahmetakifkaya
 
 
