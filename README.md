@@ -10,10 +10,10 @@ Parts needed for Lampture Project:
 5- Pegs, screws, and washers to mount the device on the wall 
 6- A mobile device (Such as a tablet or smartphone)
 
-YouTube Video: 
-My YouTube Channel: 
-My Website:
-My Instagram Page:
+YouTube Video: https://youtu.be/A6nxaNzWKI4
+My YouTube Channel: https://youtube.com/c/AhmetAkifKaya
+My Website: http://ahmetakifkaya.com/
+My Instagram Page: https://www.instagram.com/ahmetakifkaya
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -27,8 +27,13 @@ Lampture Projesi için gerekli malzemeler:
 5- Cihazı duvara monte etmek için dübel, vida ve pul
 6- Bir mobil cihaz (Tablet veya akıllı telefon)
 
-YouTube Videosu:
-YouTube Kanalım:
-Kişisel İnternet Sayfam:
-Instagram Sayfam:
+YouTube Videosu: https://youtu.be/A6nxaNzWKI4
+YouTube Kanalım: https://youtube.com/c/AhmetAkifKaya
+Kişisel İnternet Sayfam: http://ahmetakifkaya.com/
+Instagram Sayfam: https://www.instagram.com/ahmetakifkaya
 
+
+
+
+#diy #IoT #iot #arduino #servo #robotics #tech #technology #app #smart #smarthome #akıllıev #akıllı #uygulama #esp8266 #future #blynk #wemos #nodemcu #electricity #electronics #robot #robots #electricalengineering #maker #make #makersgonnamake #hacking #tinkering  #makersmovement  #homemade #evyapımı #programming #arduinoproject #innovative #innovation #prototype #developer
+ 
