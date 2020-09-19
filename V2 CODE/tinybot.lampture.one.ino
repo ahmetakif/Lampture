@@ -2,10 +2,10 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "kRQIwOmnoQkGj-HQT85bb8JwoaDgz2A5";
+char auth[] = "AuthKey";
 
-char ssid[] = "SUPERONLINE_WiFi_7275";
-char pass[] = "xv4uun7Q6xJg";
+char ssid[] = "wifiismi";
+char pass[] = "sifre";
 
 #include <Servo.h>
 Servo lampservo;
