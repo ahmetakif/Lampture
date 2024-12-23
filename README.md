@@ -12,7 +12,6 @@ Parts needed for Lampture Project:
 
 YouTube Video: https://youtu.be/A6nxaNzWKI4  
 My YouTube Channel: https://youtube.com/c/AhmetAkifKaya  
-My Website: http://ahmetakifkaya.com/  
 My Instagram Page: https://www.instagram.com/ahmetakifkaya  
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -29,7 +28,6 @@ Lampture Projesi için gerekli malzemeler:
 
 YouTube Videosu: https://youtu.be/A6nxaNzWKI4  
 YouTube Kanalım: https://youtube.com/c/AhmetAkifKaya  
-Kişisel İnternet Sayfam: http://ahmetakifkaya.com/  
 Instagram Sayfam: https://www.instagram.com/ahmetakifkaya  
 
 
